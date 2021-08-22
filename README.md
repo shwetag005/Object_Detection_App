@@ -1,7 +1,8 @@
-# Object_Detection_App
+# Object_Detection_App 
 
 
-##Machine Learning powered Android Application
+## Machine Learning powered Android Application :iphone:
+
 
 This application can detect objects in any of the three ways:
 
